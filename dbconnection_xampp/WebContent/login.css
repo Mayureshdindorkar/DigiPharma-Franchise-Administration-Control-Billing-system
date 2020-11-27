@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+ .center {
+  text-align: center;
+}
+
+.imgdiv{
+	align-items: center;
+}
+
+
+#f2{
+	margin-left:120px;
+}
+
+#f3{
+	margin-left:120px;
+}
+
+label
+{
+	width:100px;
+	display:inline-block;
+	text-align:left;
+}

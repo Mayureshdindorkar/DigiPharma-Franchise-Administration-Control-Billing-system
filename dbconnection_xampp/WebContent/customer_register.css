@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.center{
+	text-align:center;
+}
+
+div{
+	padding=100px;
+	text-align:center;
+}
+
+label
+{
+	width:250px;
+	display:inline-block;
+	text-align:left;
+}
